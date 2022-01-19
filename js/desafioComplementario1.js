@@ -24,11 +24,6 @@ else {alert("No tiene permiso para ingresar a la web")}
 
 
 
-    // else if (apellido == ""){
-    //     alert("No ingreso ningun apellido")
-    // }
-
-
 
 
 
